@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		39F5CFDD2F36216100131721 /* CookieClicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CookieClicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		393E308D2F3F304200FD5A64 /* Weathr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weathr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		39F5CFDF2F36216100131721 /* CookieClicker */ = {
+		393E308F2F3F304200FD5A64 /* Weathr */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CookieClicker;
+			path = Weathr;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		39F5CFDA2F36216100131721 /* Frameworks */ = {
+		393E308A2F3F304200FD5A64 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		39F5CFD42F36216100131721 = {
+		393E30842F3F304200FD5A64 = {
 			isa = PBXGroup;
 			children = (
-				39F5CFDF2F36216100131721 /* CookieClicker */,
-				39F5CFDE2F36216100131721 /* Products */,
+				393E308F2F3F304200FD5A64 /* Weathr */,
+				393E308E2F3F304200FD5A64 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		39F5CFDE2F36216100131721 /* Products */ = {
+		393E308E2F3F304200FD5A64 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				39F5CFDD2F36216100131721 /* CookieClicker.app */,
+				393E308D2F3F304200FD5A64 /* Weathr.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,65 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		39F5CFDC2F36216100131721 /* CookieClicker */ = {
+		393E308C2F3F304200FD5A64 /* Weathr */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 39F5CFE82F36216800131721 /* Build configuration list for PBXNativeTarget "CookieClicker" */;
+			buildConfigurationList = 393E30982F3F304300FD5A64 /* Build configuration list for PBXNativeTarget "Weathr" */;
 			buildPhases = (
-				39F5CFD92F36216100131721 /* Sources */,
-				39F5CFDA2F36216100131721 /* Frameworks */,
-				39F5CFDB2F36216100131721 /* Resources */,
-				393E30822F3F2E3400FD5A64 /* ShellScript */,
+				393E30892F3F304200FD5A64 /* Sources */,
+				393E308A2F3F304200FD5A64 /* Frameworks */,
+				393E308B2F3F304200FD5A64 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				39F5CFDF2F36216100131721 /* CookieClicker */,
+				393E308F2F3F304200FD5A64 /* Weathr */,
 			);
-			name = CookieClicker;
+			name = Weathr;
 			packageProductDependencies = (
 			);
-			productName = CookieClicker;
-			productReference = 39F5CFDD2F36216100131721 /* CookieClicker.app */;
+			productName = Weathr;
+			productReference = 393E308D2F3F304200FD5A64 /* Weathr.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		39F5CFD52F36216100131721 /* Project object */ = {
+		393E30852F3F304200FD5A64 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2610;
 				LastUpgradeCheck = 2610;
 				TargetAttributes = {
-					39F5CFDC2F36216100131721 = {
+					393E308C2F3F304200FD5A64 = {
 						CreatedOnToolsVersion = 26.1.1;
 					};
 				};
 			};
-			buildConfigurationList = 39F5CFD82F36216100131721 /* Build configuration list for PBXProject "CookieClicker" */;
+			buildConfigurationList = 393E30882F3F304200FD5A64 /* Build configuration list for PBXProject "Weathr" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 39F5CFD42F36216100131721;
+			mainGroup = 393E30842F3F304200FD5A64;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 39F5CFDE2F36216100131721 /* Products */;
+			productRefGroup = 393E308E2F3F304200FD5A64 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				39F5CFDC2F36216100131721 /* CookieClicker */,
+				393E308C2F3F304200FD5A64 /* Weathr */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		39F5CFDB2F36216100131721 /* Resources */ = {
+		393E308B2F3F304200FD5A64 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,30 +114,8 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		393E30822F3F2E3400FD5A64 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			alwaysOutOfDate = 1;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "/opt/homebrew/bin/swiftlint\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		39F5CFD92F36216100131721 /* Sources */ = {
+		393E30892F3F304200FD5A64 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -148,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		39F5CFE62F36216800131721 /* Debug */ = {
+		393E30962F3F304300FD5A64 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -211,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		39F5CFE72F36216800131721 /* Release */ = {
+		393E30972F3F304300FD5A64 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -267,7 +244,7 @@
 			};
 			name = Release;
 		};
-		39F5CFE92F36216800131721 /* Debug */ = {
+		393E30992F3F304300FD5A64 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -275,7 +252,6 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -287,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nl.avans.CookieClicker;
+				PRODUCT_BUNDLE_IDENTIFIER = Intianny.Productions.Weathr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -299,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		39F5CFEA2F36216800131721 /* Release */ = {
+		393E309A2F3F304300FD5A64 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,7 +283,6 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -319,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = nl.avans.CookieClicker;
+				PRODUCT_BUNDLE_IDENTIFIER = Intianny.Productions.Weathr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -334,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		39F5CFD82F36216100131721 /* Build configuration list for PBXProject "CookieClicker" */ = {
+		393E30882F3F304200FD5A64 /* Build configuration list for PBXProject "Weathr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				39F5CFE62F36216800131721 /* Debug */,
-				39F5CFE72F36216800131721 /* Release */,
+				393E30962F3F304300FD5A64 /* Debug */,
+				393E30972F3F304300FD5A64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		39F5CFE82F36216800131721 /* Build configuration list for PBXNativeTarget "CookieClicker" */ = {
+		393E30982F3F304300FD5A64 /* Build configuration list for PBXNativeTarget "Weathr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				39F5CFE92F36216800131721 /* Debug */,
-				39F5CFEA2F36216800131721 /* Release */,
+				393E30992F3F304300FD5A64 /* Debug */,
+				393E309A2F3F304300FD5A64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 39F5CFD52F36216100131721 /* Project object */;
+	rootObject = 393E30852F3F304200FD5A64 /* Project object */;
 }
